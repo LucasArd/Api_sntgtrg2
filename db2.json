@@ -1,0 +1,44 @@
+[
+  {
+    "id": 7,
+    "name": "Graf-1",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/7c/1a/cd/7c1acd3cf2cd0e3b7b707f6a25469e82.jpg",
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "name": "Graf-2",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/89/a2/20/89a220d596f1e158e78af3f7c493628a.jpg",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "name": "Graf-3",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/11/26/ea/1126ea90a608e6b4be9582139809116c.jpg",
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "name": "Graf-4",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/5f/0b/47/5f0b474d34e29cd2b29387e0f387a4a8.jpg",
+    "stock": 10
+  },
+  {
+    "id": 11,
+    "name": "Graf-5",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/db/39/f7/db39f72b83af50719486bda3498609db.jpg",
+    "stock": 10
+  },
+  {
+    "id": 12,
+    "name": "Graf-6",
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/04/38/01/04380197cbf0ab13deddda501aad7ad3.jpg",
+    "stock": 10
+  }
+]
