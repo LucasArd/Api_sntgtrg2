@@ -1,4 +1,5 @@
-[
+{
+    "products2": [
   {
     "id": 7,
     "name": "Graf-1",
@@ -41,4 +42,5 @@
     "img": "https://i.pinimg.com/originals/04/38/01/04380197cbf0ab13deddda501aad7ad3.jpg",
     "stock": 10
   }
-]
+ ]
+}
